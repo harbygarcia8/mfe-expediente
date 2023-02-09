@@ -1,0 +1,18 @@
+body {
+  margin-top: 5px;
+  font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  color: #535353;
+}
+  
+  .App {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
